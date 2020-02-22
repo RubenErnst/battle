@@ -129,4 +129,8 @@ dmypy.json
 .pyre/
 
 # PyCharm project settings
-/.idea/*
+.idea/
+*.idea
+
+# Other
+.DS_Store
